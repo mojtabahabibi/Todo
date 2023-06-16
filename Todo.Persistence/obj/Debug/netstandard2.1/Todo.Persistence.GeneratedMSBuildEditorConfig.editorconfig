@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Todo.Persistence
+build_property.ProjectDir = F:\Program\WebApi\Project\TodoList\Todo.Persistence\
